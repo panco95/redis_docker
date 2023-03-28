@@ -6,5 +6,4 @@ deployment redis used by docker.
 
 - chmod 777 redis/redis.log
 - chmod 777 redis/data
-- chmod 777 mysql/data
 - docker-compose up -d
